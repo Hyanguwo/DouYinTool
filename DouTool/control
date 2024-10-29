@@ -1,0 +1,9 @@
+Package: com.hyangu.doutool
+Name: DouTool
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 一个简单的抖音插件，可以打开插件设置和自动播放功能
+Maintainer: Hyangu
+Author: Hyangu
+Section: Tweaks
