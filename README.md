@@ -18,7 +18,7 @@
 
 - **版本**：1.0
 - **作者**：Hyangu
-- **作者WeChat·iiiyuayu**：Hyangu
+- **作者WeChat**：iiiyuayu
 ## 安装
 
 1. 使用 Theos 或其他工具编译并安装插件。
